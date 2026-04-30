@@ -1,0 +1,9 @@
+{
+  "name": "Академія Добробуту",
+  "description": "Інтерактивний навчальний веб-застосунок для повторення курсу 'Здоров'я, безпека та добробут' у 5 класі.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "interactive_education",
+    "learning_analytics"
+  ]
+}
